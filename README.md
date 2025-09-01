@@ -32,7 +32,7 @@ Climate-sustainability-analysis/
 
 All datasets are taken from Our World in Data.
 
-## Features So Far
+## Features 
 1. Loaded and explored multiple datasets.
 2. Dropped and renamed columns for consistency.
 3. Handled missing values (dropping or interpolating, depending on country importance).
@@ -43,7 +43,7 @@ All datasets are taken from Our World in Data.
 2. Study correlations (e.g., GDP vs CO₂ emissions, renewable energy vs growth).
 3. Extend the project with ML models to predict CO₂ emissions and renewable adoption shortly.
 
-## Sample Visualizations (to be added)
+## Sample Visualizations
 1. CO₂ emissions trends across decades.
 2. Heatmaps showing renewable energy adoption by region.
 3. Scatter plots of GDP vs CO₂ emissions.
