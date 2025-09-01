@@ -1,4 +1,4 @@
-# Climate and Sustainability Trends: A Data-Driven Analysis of CO2, Energy, and Economic Indicators (work in progress)
+# Climate and Sustainability Trends: A Data-Driven Analysis of CO2, Energy, and Economic Indicators
 
 ## Overview
 This project examines the relationship between climate change, renewable energy, and economic development, utilizing real-world datasets.
